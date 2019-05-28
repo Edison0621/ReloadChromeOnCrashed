@@ -1,2 +1,2 @@
 # ReloadOnChromeCrashed
-When the chrome cashed,reload it.
+When the chrome cashed,this plug-ins will auto reload it.
