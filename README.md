@@ -1,2 +1,2 @@
 # ReloadChromeOnCrashed
-When the chrome cashed,this plug-ins will auto reload it.
+When the chrome crashed, this plugin will allow chrome to refresh.
